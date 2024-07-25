@@ -7,7 +7,7 @@ export default function Root() {
       <nav className="bg-white shadow-md">
         <div className="container mx-auto p-4 flex justify-between items-center">
           <div className="space-x-4">
-            <Link to="home" className="text-gray-700 hover:text-blue-500">Home</Link>
+            <Link to="" className="text-gray-700 hover:text-blue-500">Home</Link>
             <Link to="about" className="text-gray-700 hover:text-blue-500">About</Link>
             <Link to="service" className="text-gray-700 hover:text-blue-500">Services</Link>
             {/* <Link to="portfolio" className="text-gray-700 hover:text-blue-500">Portfolio</Link> */}
